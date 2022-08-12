@@ -36,6 +36,7 @@ a {
   text-decoration: none;
   color: var(--white);
   transition: 0.3s ease-in-out;
+  cursor: pointer;
   &:hover {
     color: var(--cyan);
   }
@@ -114,6 +115,7 @@ a {
     font-weight: var(--weight-semi-bold);
     letter-spacing: 1px;
     color: var(--white);
+    cursor: pointer;
   }
 
   &__desc {

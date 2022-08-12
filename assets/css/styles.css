@@ -34,6 +34,7 @@ a {
   text-decoration: none;
   color: var(--white);
   transition: 0.3s ease-in-out;
+  cursor: pointer;
 }
 a:hover {
   color: var(--cyan);
@@ -107,6 +108,7 @@ a:hover {
   font-weight: var(--weight-semi-bold);
   letter-spacing: 1px;
   color: var(--white);
+  cursor: pointer;
 }
 .card__desc {
   font-size: var(--font-size-paragraph);
